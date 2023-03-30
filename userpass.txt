@@ -1,0 +1,14 @@
+SUP00001:abc123:Jason:1:Super User:******:0293849385733:1997-9-8:Jalan Singgasana No 192:***:******
+STF00001:vos:VOS:2:Staff:******:7854938448567:1987-4-19:Jalan Chattime no 92:34:******
+STF00002:STF00002:Raja Salmon:2:Staff:******:904389578493:1985-12-28:Jalan Cahaya No 196:38:******
+STF00003:clean:Air:2:Staff:******:894738493293:1983-6-18:Jalan malam no 45:45:******
+CTM00001:lycan:Goldilock:3:Savings:1000:849302817343:2000-8-9:Street Grandma Is Waiting At Home:54:Detective
+CTM00002:sun:Sunlight:3:Current:500:892789353647:2010-10-10:Street There Is A Light:29:Gardener
+CTM00003:CTM00003:Techy:3:Savings:130:9032785492884:1999-12-3:Street Technology CyberJaya:21:Programmer
+CTM00004:books:Nerd:3:Current:300:894378659034:1997-08-09:Street There Is Something On The Road:25:Librarian
+STF00004:STF00004:Macan:2:Staff:******:012345678901:2001-12-09:Street Magi of the World:33:******
+STF00005:STF00005:Jujutsu:2:Staff:******:012345678901:1993-08-08:Street Technology:27:******
+STF00006:STF00006:Blanket:2:Staff:******:012345678901:1998-06-07:Street Mouse:35:******
+STF00007:STF00007:Shika:2:Staff:******:082134658790:2021-12-08:Street The Jungle is Here:40:******
+CTM00005:chai:Nicholas Singh:3:Savings:899.5:092176858954:1998-03-03:Street The Hero of the Country:29:Carpenter
+STF00008:STF00008:Blue:2:Staff:******:012345678901:2000-09-18:Street the Sky n the Ocean:18:******
